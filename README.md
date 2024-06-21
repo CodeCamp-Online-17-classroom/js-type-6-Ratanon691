@@ -12,3 +12,4 @@ typeof(1 + '3');
 typeof(1 * 'a');
 typeof null;
 ```
+Rattanon Tunwittaya
